@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'weaktsiv': Two-sample Instrumental variables (TS2SLS) regression Use weaktsiv With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f weaktsiv.ado
+f weaktsiv.sthlp
